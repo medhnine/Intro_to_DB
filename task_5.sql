@@ -1,3 +1,4 @@
+USE alx_book_store;
 SELECT 
     COLUMN_NAME AS 'Field',
     COLUMN_TYPE AS 'Type',
